@@ -17,7 +17,7 @@ Each permission (rwx) can be controlled at three levels:
 	* o - other = everyone on the system
 	* a - all
 
-File or Dir permission can be display by running ls -l command
+File or Directory permission can be display by running ls -l command
 	* -rwxrwxrwx
 
 Command to change permission
@@ -25,13 +25,13 @@ Command to change permission
 
 Example:
 
-# removed write permission of the group
+* removed write permission of the group
 $ chmod g-w jerry
 
-# removed write permission of a user
+* removed write permission of a user
 $ chmod u-w jerry
 
-# Add permission
+* Add permission
 $ chmod u+w jerry
 
 This is also work on a link
