@@ -1,4 +1,4 @@
-* Permission to a file and dir can also be assigned numerically
+* Permission to a file and directory can also be assigned numerically
 	* chmod ugo+r FILE
 	or
 	* chmod 444 FILE
