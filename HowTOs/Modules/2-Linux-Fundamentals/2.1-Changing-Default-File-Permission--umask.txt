@@ -14,5 +14,5 @@ cat /etc/bashrc
 -
 -
 -
-- end of the file
+-
 umask <args>
