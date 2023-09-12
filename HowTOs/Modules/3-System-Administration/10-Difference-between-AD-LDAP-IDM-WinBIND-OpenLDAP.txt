@@ -1,0 +1,8 @@
+Active Directory 	= Microsoft
+IDM			= Identity Manager (product of REDHAT)
+WinBIND			= Used in linux to communicate with Windows (Samba). Allows linux users to get auth against windows AD
+OpenLDAP(Open source)	= FREE TO USE
+IBM Directory Server	= Product by IBM
+JumpCloud
+
+LDAP			= Lightweight Directory Access Protocol
