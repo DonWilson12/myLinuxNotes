@@ -1,0 +1,4 @@
+
+File location	= /etc/motd
+
+Modify this file to display massage after login

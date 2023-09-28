@@ -1,0 +1,8 @@
+* The FTP is a standard network protocol used for the transfer of computer files between a client and server
+on a computer network.
+
+* Protocol = Set of rules used by computers to communicate.
+* Default FTP Port = 21
+
+# Look for module 7 for instruction on how to set up FTP server/client
+
